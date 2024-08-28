@@ -1,4 +1,4 @@
-<h3>Aggregated Monthly Payments (SQL)</h3> <br>
+<h3>Aggregated Monthly Payments (SQL test task)</h3> <br>
 Using the following four tables (payments, currencies, exchange rates, blacklist), please write a query to return the amounts in euros aggregated by transaction_date. <br>
 DDL scripts for 4 tables could be found at: https://github.com/olexandr7/test_task_2023/blob/main/aggregated_payments_input.sql <br>
 Please be informed that: <br>
